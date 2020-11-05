@@ -1,4 +1,4 @@
-image1 = rgb2gray(imread("images/pic1darkvery.png"));
+image1 = rgb2gray(imread("images/pic1.png"));
 image2 = rgb2gray(imread("images/pic2.png"));
 %image2 = image1;
 figure;
